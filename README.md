@@ -1,0 +1,2 @@
+# elbarbershop
+ElBarbershop cross mobile platform app using flutter is an app that belong to the hafefly group service made by raynmore Inc. the service is about linking both of the barbershop and its barbers with the public client. Elbarbershop is the barbershop owner version of the service that let's the owner add and remove barbers from it's barbershop, to keep an eye on his barbershop's statistics revenue, feedbacks and customers interaction.
